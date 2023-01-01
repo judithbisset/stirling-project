@@ -170,6 +170,12 @@ section {
 .grid-3-columns-first-narrow {
     grid-template-columns: 1fr 2fr 2fr;
 }
+.music-video {
+    margin-top: 20px;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border-radius: 5px;
+}
 footer {
     color: white;
     background-image: linear-gradient(rgba(39, 32, 68, 0.9),
