@@ -105,6 +105,7 @@ main p {
 .bridge-summer {
     width: 570px;
         height: 461px;
+        filter: saturate(2);
 }
 .img-responsive {
     max-width: 100%;
